@@ -21,6 +21,6 @@ Before running the Jupyter notebooks, make sure to download the necessary raw fi
 
 ```
 wget https://zenodo.org/records/10246816/files/BenchmarkingPfamSDB.tar.gz
-tar -xf BenchmarkingPfamSDB.tar.gz
+tar -xzf BenchmarkingPfamSDB.tar.gz
 ```
 
