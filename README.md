@@ -20,7 +20,7 @@ Jupyter Notebooks used for benchmarking can be found in the `scripts` directory.
 Before running the Jupyter notebooks, make sure to download the necessary raw files. You can do so with the following commands:
 
 ```
-wget https://zenodo.org/record/8335990/files/BenchmarkingPfamSDB.tar.gz
+wget https://zenodo.org/records/10246816/files/BenchmarkingPfamSDB.tar.gz
 tar -xf BenchmarkingPfamSDB.tar.gz
 ```
 
